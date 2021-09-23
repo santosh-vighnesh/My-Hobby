@@ -22,7 +22,7 @@ body {
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    margin-bottom: 80px;
+    margin-bottom: 70px;
     top: 50px;
 }
 
@@ -94,4 +94,10 @@ html {
 .drawing{
     width: 700px;
     height: 400px;
+}
+#img2:hover{
+  height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    transform: scale(1.2);
 }
